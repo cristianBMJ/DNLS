@@ -2,6 +2,6 @@
 
 Program that obtain Solitons  over one chain 1-dimensional atoms nonlinear. Futher, determine  the Power of these.
 
-[Surface modes]()
+[Surface modes](modeSurface2021-04-09.png)
 
 
