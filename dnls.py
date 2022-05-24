@@ -307,25 +307,24 @@ def mDNLSlambda(x, params ,  backend=math):
   
 
 
-
-x0=np.zeros(101); 
+def condInitial(values=[1],   site=[50],  long=101):
+    x0=np.zeros(long); 
             
-for i in range(101):
+    for i in site:
+        x0[i] =  values[ site.index(i) ]
 
-    if(i!=50):
-        x0[i]=0
-    
-	  
-    else:
-        x0[i]=1
-	
-	
+    return x0	
+
+# parameters RK4	
 h = 0.01
 t=0;
 
 
-p=x0.copy()
-varDNlS= RK4(h ,p, mDNLS, 'DNLS.txt', 'dnls23.txt');
+C0= condInitial(values=[1, 12] , site=[5, 6] , long=10 )
+
+print(C0)
+#p=x0.copy()
+#varDNlS= RK4(h ,p, DNLSdisorder, 'DNLSdisorder.txt', 'dls24.txt');
 #varmDNlS= RK4(h ,p, mDNLS, 'mDNLS.txt', 'sigmamDNLS.txt');
 
 #var= RK4(h ,p, sys.argv[1], sys.arg[2] , 'sigma.txt');
