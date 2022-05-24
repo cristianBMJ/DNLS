@@ -1,7 +1,6 @@
 # Discrete  Schodinger equation DLS
 
 
-
 ![Propagation DLS](/../main/images/DLS.png)
 
 
