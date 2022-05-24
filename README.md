@@ -1,4 +1,4 @@
-# Discrete  Schodinger equation DLS
+# Discrete  Schrodinger equation DLS
 
 
 ![Propagation DLS](/../main/images/DLS.png)
@@ -6,13 +6,13 @@
 
 
 
-# Discrete NonLinear Schodinger equation DNLS
+# Discrete NonLinear Schrodinger equation DNLS
 
 
 ![Propagation DNLS](/../main/images/DNLS.png)
 
 
-# Modified Discrete NonLinear Schodinger equation mDNLS
+# Modified Discrete NonLinear Schrodinger equation mDNLS
 
 
 ![Propagation mDNLS](/../main/images/mDNLS.png)
