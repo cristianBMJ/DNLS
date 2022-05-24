@@ -1,6 +1,6 @@
 # Modified Discrete NonLinear Schodinger equation mDNLS
 
-Program that obtain Solitons  over one chain 1-dimensional atoms nonlinear. Futher, determine  the Power of these.
+Program `pqs.py` that obtain Solitons(modes)  over one chain 1-dimensional atoms nonlinear. Futher, determine  the Power of these.
 
 
 ### Bulk Modes
