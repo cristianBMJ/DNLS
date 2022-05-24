@@ -1,10 +1,23 @@
+# Discrete  Schodinger equation DLS
+
+
+
+![Propagation DLS](/../main/images/DLS.png)
+
+
+
+
 # Discrete NonLinear Schodinger equation DNLS
 
 
-![Bulk modes](/../main/images/dls.png)
+![Propagation DNLS](/../main/images/DNLS.png)
 
 
 # Modified Discrete NonLinear Schodinger equation mDNLS
+
+
+![Propagation mDNLS](/../main/images/mDNLS.png)
+
 
 Program `pqs.py` that obtain Solitons(modes)  over one chain 1-dimensional atoms nonlinear. Futher, determine  the Power of these.
 
