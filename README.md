@@ -1,3 +1,5 @@
+[![Python applications test with Github Actions](https://github.com/cristianBMJ/DNLS/actions/workflows/testing_cl.yml/badge.svg)](https://github.com/cristianBMJ/DNLS/actions/workflows/testing_cl.yml)
+
 # Discrete  Schrodinger equation DLS
 
 
