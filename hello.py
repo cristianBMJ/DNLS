@@ -3,7 +3,7 @@ def more_hello():
 
 
 var = 1
-var = var
+#var = var
 
 # bad syntax
 
